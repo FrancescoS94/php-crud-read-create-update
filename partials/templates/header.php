@@ -7,7 +7,7 @@
     <title>PHP CRUD</title>
 </head>
 
-<body>
+<body class="bg-light">
     <div class="wrapper">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <a class="navbar-brand" href="#">Hotel Boolean</a>
@@ -16,7 +16,8 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <div class="navbar-nav ml-auto">
-                    <a class="nav-link active" href="index-php.php">Stanze <span class="sr-only">Stanze</span></a>
+                    <a class="nav-link active" href="index.php">Visualizza stanze</a>
+                    <a class="nav-link active" href="create.php">Inserisci una stanza</a>
                 </div>
             </div>
         </nav>
